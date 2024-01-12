@@ -6,10 +6,10 @@ const pageStyles = {
   fontFamily: "-apple-system, Roboto, sans-serif, serif",
 }
 const headingStyles = {
-  marginTop: 0,
+  marginTop: 30,
   marginBottom: 64,
   maxWidth: 320,
-  fontSize: 60,
+  fontSize: 66,
 }
 const headingAccentStyles = {
   color: "#663399",
